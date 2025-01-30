@@ -1,5 +1,7 @@
 # Hi 👋, I'm Chanin Thunsiripattanatada (Aomsin)
 
+🔗 **Portfolio :** [https://chanin-thunsiripattanatada.github.io/PortfolioWeb/](https://chanin-thunsiripattanatada.github.io/PortfolioWeb/)
+---
 I am currently a third-year Computer Science student at the College of Computing, Khon Kaen University, with a GPAX of 3.68/4.0. I am a dedicated and goal-oriented individual with a passion for **software development** and leveraging new technologies to solve real-world challenges. **My expertise** includes **backend application development**, **web application development**, **database management**, and **designing secure** and **scalable systems**. I enjoy exploring new tools and technologies, always looking to expand my knowledge and skill set.
 
 **Fun fact**: When I'm not coding, you’ll find me experimenting with new technologies or diving into research on **image processing**. 🚀
